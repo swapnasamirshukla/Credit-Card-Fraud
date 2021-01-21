@@ -1,0 +1,3 @@
+Business Problem
+Predict the next month’s default probability of Taiwanese customers on their credit cards. Customers are from different genders, educational backgrounds and live in different social
+environments. They were initially granted a different level of credit.
